@@ -7,3 +7,5 @@ Pandas-profiling generates profile reports from a pandas DataFrame. The pandas d
 About Dataprep
 
 Dataprep by Trifacta is an intelligent data service for visually exploring, cleaning, and preparing structured and unstructured data for analysis, reporting, and machine learning. Because Dataprep is serverless and works at any scale, there is no infrastructure to deploy or manage.
+
+## Note extract "imdt html.rar" to view on html
