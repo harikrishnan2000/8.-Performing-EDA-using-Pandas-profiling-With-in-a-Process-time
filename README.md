@@ -1,4 +1,4 @@
-# 8.-Performing-EDA-using-Pandas-profiling-With-in-a-Process-time
+# 8.-Performing EDA using Pandas profiling and dataprep With in a Process time
 
 About Pandas Profiling
 
